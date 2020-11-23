@@ -1,4 +1,4 @@
-#Card Game - JS
+#Cards Game - JS
 ###Desc
 
 - At the start, deck is shuffled and split into two halves, 26 cards for User and Computer.
