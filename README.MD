@@ -1,5 +1,6 @@
-#Cards Game - JS
-###Desc
+# Cards Game - JS
+
+### Desc
 
 - At the start, deck is shuffled and split into two halves, 26 cards for User and Computer.
 - User have to click anywhere, to draw his card from deck, computer's card will be automatically drawn.
